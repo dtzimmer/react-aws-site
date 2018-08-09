@@ -1,0 +1,19 @@
+body {
+  background: lightskyblue;
+  margin: 10px;
+  padding: 10px;
+}
+
+section{
+  background: grey;
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+div{
+  background: whitesmoke;
+  margin: 10px;
+  padding: 10px;
+}
